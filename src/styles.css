@@ -1,0 +1,19 @@
+/* Add application styles & imports to this file! */
+@import '~@ionic/angular/css/ionic.bundle.css';
+
+.titulo {
+  text-align: center;
+}
+
+.texto {
+  color: #f4f5f8;
+}
+
+:root {
+  --ion-background-color: #1e2023;
+  --ion-toolbar-color: #f4f5f8;
+  --ion-toolbar-background: #383a3e;
+  --ion-text-color: #d7d8da;
+  --ion-tab-bar-background: #222428;
+  --ion-tab-bar-color-selected: #d7d8da;
+}
